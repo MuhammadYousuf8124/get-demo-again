@@ -23,3 +23,18 @@
 -step9:to set the origin for your local repo for github repo (travelling to destination 
 setting)  
      - eg: git remote add origin 'https://git@github.com:MuhammadYousuf8124/get-demo-again.git'
+
+## Second time 
+
+- 'git add.'
+- 'git commit -m "any message:"
+- git push
+
+
+
+## Branching 
+-step01: to check on which branch you are 
+   -eg:'git branch'
+-step02: to move and create new branch
+   -eg: 'git checkout -b task/development-branch'
+   - if branch already exist eg: 'git checkout <branch_name>'
